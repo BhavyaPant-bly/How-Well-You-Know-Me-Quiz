@@ -79,4 +79,4 @@ var highscore=5;
     highscore=score;
   }
  else
-  console.log("Highest score:",db);
+  console.log("Highest score:",highscore);
